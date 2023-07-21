@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bgi Topaz Downtown
 
-<!--
-**bgitopaz/bgitopaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to our website bgi-topaz-downtown.com , a platform dedicated to sharing health care experiences and fostering a supportive community
 
-Here are some ideas to get you started:
+- Address: 9922 Bolsa ave, Ste 116, Westminster CA 92683
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Website: https://bgi-topaz-downtown.com/
+
+https://www.behance.net/bgitopaz/info
+
+https://www.flickr.com/people/198794382@N04/
+
+https://gab.com/bgitopaz
